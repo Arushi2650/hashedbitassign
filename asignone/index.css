@@ -1,0 +1,45 @@
+#logo{
+    margin: 10px;
+    height: 50px;
+    width: 60px;
+    padding: 0px;
+    float:left;
+
+
+}
+#herry1{
+    height:"250px";
+     width:"400px";
+
+}
+#herry2{
+    height:"250px";
+     width:"400px";
+}
+#herry3{
+    height:"250px";
+     width:"400px";
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #e8bcb1;
+}
+
+
+li{
+    display: inline-block;
+    margin: 20px;
+}
+img{
+    border-radius: 10px;
+    
+}
+
+.navbar{
+    background-color:rgba(0, 255, 255, 0.214);
+}
+
+p{
+    font-size:larger;
+}
